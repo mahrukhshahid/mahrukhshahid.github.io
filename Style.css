@@ -1,0 +1,31 @@
+p{
+	font-size: 18px;
+	font-style: normal;
+	color: red;
+}
+.red{
+	font-size: 14px;
+	color: red;
+}
+.blue{
+	font-size: 20px;
+	color: blue;
+}
+#menubar li{
+	display: ???;
+	background-color: ???;
+	padding: ???;
+}
+#menubar li{
+	font-family: Helvetica;
+	display:inline-block;
+	background-color: #CCCCFF;
+	border-bottom: solid;
+	border-color: #7A7A99;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
